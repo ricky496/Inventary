@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sales & Invoicing</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sales & Invoicing</h1>
+        <!-- Aquí irán las funcionalidades de ventas y facturación -->
+    </header>
+    <main>
+        <section>
+            <p>Administra tus ventas y genera facturas aquí. Registra ventas, actualiza el inventario automáticamente y emite facturas para tus clientes.</p>
+            <!-- Formularios, tablas de ventas, e interfaces para generar facturas -->
+            <h2>Sales & Invoicing</h2>
+            <form method="POST" action="/process-sale">
+                <label for="product">Product:</label><br>
+                <select id="product" name="product">
+                    <!-- Aquí puedes iterar sobre los productos de tu base de datos -->
+                    <option value="product1">Product 1</option>
+                    <option value="product2">Product 2</option>
+                </select><br><br>
+
+                <label for="quantity">Quantity:</label><br>
+                <input type="number" id="quantity" name="quantity"><br><br>
+
+                <button type="submit">Process Sale</button>
+            </form>
+
+        </section>
+    </main>
+    <footer>
+        <p>Copyright © Gergles Supply 2024</p>
+    </footer>
+</body>
+</html>

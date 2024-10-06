@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Inventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20B5C107-15FF-4140-B08B-42D07D3811B6}|Inventario.Web\\Inventario.Web.csproj|c:\\users\\hp\\source\\repos\\inventario\\inventario.web\\wwwroot\\sales.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20B5C107-15FF-4140-B08B-42D07D3811B6}|Inventario.Web\\Inventario.Web.csproj|solutionrelative:inventario.web\\wwwroot\\sales.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B5C107-15FF-4140-B08B-42D07D3811B6}|Inventario.Web\\Inventario.Web.csproj|c:\\users\\hp\\source\\repos\\inventario\\inventario.web\\wwwroot\\inventory.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20B5C107-15FF-4140-B08B-42D07D3811B6}|Inventario.Web\\Inventario.Web.csproj|solutionrelative:inventario.web\\wwwroot\\inventory.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B5C107-15FF-4140-B08B-42D07D3811B6}|Inventario.Web\\Inventario.Web.csproj|c:\\users\\hp\\source\\repos\\inventario\\inventario.web\\wwwroot\\customers.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20B5C107-15FF-4140-B08B-42D07D3811B6}|Inventario.Web\\Inventario.Web.csproj|solutionrelative:inventario.web\\wwwroot\\customers.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B5C107-15FF-4140-B08B-42D07D3811B6}|Inventario.Web\\Inventario.Web.csproj|c:\\users\\hp\\source\\repos\\inventario\\inventario.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20B5C107-15FF-4140-B08B-42D07D3811B6}|Inventario.Web\\Inventario.Web.csproj|solutionrelative:inventario.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B5C107-15FF-4140-B08B-42D07D3811B6}|Inventario.Web\\Inventario.Web.csproj|c:\\users\\hp\\source\\repos\\inventario\\inventario.web\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{20B5C107-15FF-4140-B08B-42D07D3811B6}|Inventario.Web\\Inventario.Web.csproj|solutionrelative:inventario.web\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "customers.html",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Inventario\\Inventario.Web\\wwwroot\\customers.html",
+              "RelativeDocumentMoniker": "Inventario.Web\\wwwroot\\customers.html",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Inventario\\Inventario.Web\\wwwroot\\customers.html",
+              "RelativeToolTip": "Inventario.Web\\wwwroot\\customers.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-25T16:28:17.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sales.html",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Inventario\\Inventario.Web\\wwwroot\\sales.html",
+              "RelativeDocumentMoniker": "Inventario.Web\\wwwroot\\sales.html",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Inventario\\Inventario.Web\\wwwroot\\sales.html",
+              "RelativeToolTip": "Inventario.Web\\wwwroot\\sales.html",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-25T16:27:22.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "inventory.html",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Inventario\\Inventario.Web\\wwwroot\\inventory.html",
+              "RelativeDocumentMoniker": "Inventario.Web\\wwwroot\\inventory.html",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Inventario\\Inventario.Web\\wwwroot\\inventory.html",
+              "RelativeToolTip": "Inventario.Web\\wwwroot\\inventory.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-25T16:25:39.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Inventario\\Inventario.Web\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "Inventario.Web\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Inventario\\Inventario.Web\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "Inventario.Web\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAGEIAAAAAAAAAAAwwHUJAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-20T20:26:22.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Inventario\\Inventario.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Inventario.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Inventario\\Inventario.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Inventario.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwEgAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T20:22:57.884Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

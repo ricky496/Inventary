@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\Home\customers.cshtml" />
+    <Content Remove="Views\Home\inventory.cshtml" />
+    <Content Remove="Views\Home\sales.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\customers.html" />
+    <None Include="wwwroot\sales.html" />
+    <None Include="wwwroot\inventory.html" />
+  </ItemGroup>
+
+</Project>

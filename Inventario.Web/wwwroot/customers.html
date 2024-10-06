@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Management</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Customer Management</h1>
+        <!-- Aquí irán las funcionalidades de gestión de clientes -->
+    </header>
+    <main>
+        <section>
+            <p>Administra la información de tus clientes aquí. Agrega nuevos clientes, actualiza sus datos y realiza seguimientos.</p>
+            <!-- Sección para agregar, eliminar o actualizar información de clientes -->
+            <h2>Customer Management</h2>
+            <form method="POST" action="/add-customer">
+                <label for="customer-name">Customer Name:</label><br>
+                <input type="text" id="customer-name" name="customer-name"><br><br>
+
+                <label for="customer-email">Customer Email:</label><br>
+                <input type="email" id="customer-email" name="customer-email"><br><br>
+
+                <button type="submit">Add Customer</button>
+            </form>
+
+        </section>
+    </main>
+    <footer>
+        <p>Copyright © Gergles Supply 2024</p>
+    </footer>
+</body>
+</html>
